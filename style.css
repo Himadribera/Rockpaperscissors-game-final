@@ -23,22 +23,23 @@ body{
   .result{
     font-size: 40px;
     font-weight: bold;
-    margin-top: 25px;
+    margin-top: 15px;
+    margin-bottom: 10px;
   }
   .score
     {
       margin-top: 20px;
-      font-size: 20px;
+      font-size: 22px;
     }
   .moves{
-    font-size: 25px;
+    font-size: 30px;
   }
 
   .reset-score-button{
     font-family: 'VT323', monospace;
     background-color: white;
     border: none;
-    font-size: 20px;
+    font-size: 22px;
     padding: 8px 15px;
     cursor: pointer;
     border-radius: 5px;
