@@ -25,10 +25,13 @@ body{
     font-weight: bold;
     margin-top: 25px;
   }
-  .score,
+  .score
+    {
+      margin-top: 20px;
+      font-size: 20px;
+    }
   .moves{
-    margin-top: 10px;
-    font-size: 20px;
+    font-size: 25px;
   }
 
   .reset-score-button{
