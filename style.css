@@ -10,9 +10,9 @@ body{
   .move-button{
     background-color: transparent;
     border: 2px solid white;
-    width: 130px;
-    height: 130px;
-    border-radius: 65px;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
     cursor: pointer;
     margin-right: 10px;
   }
@@ -21,18 +21,21 @@ body{
 
   }
   .result{
-    font-size: 25px;
+    font-size: 40px;
     font-weight: bold;
-    margin-top: 30px;
+    margin-top: 25px;
   }
-  .score{
-    margin-top: 30px;
+  .score,
+  .moves{
+    margin-top: 10px;
+    font-size: 20px;
   }
+
   .reset-score-button{
     font-family: 'VT323', monospace;
     background-color: white;
     border: none;
-    font-size: 15px;
+    font-size: 20px;
     padding: 8px 15px;
     cursor: pointer;
     border-radius: 5px;
